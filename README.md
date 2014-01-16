@@ -1,4 +1,4 @@
-cw-unconf-beverage-o-meter
+cw-unconf-estimate-o-meter
 ==========================
 
-Beverage-o-Meter Presentation For Clockwork's 2014 UnConf.
+Estimate-o-Meter Presentation For Clockwork's 2014 UnConf.
